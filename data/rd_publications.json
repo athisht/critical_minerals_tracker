@@ -1,0 +1,294 @@
+[
+  {
+    "paper_id": "RD-2023-01",
+    "doi": "10.1016/j.hydromet.2023.106120",
+    "title": "Comprehensive hydrometallurgical recycling of spent Li-ion batteries: A review of Indian initiatives and techno-economic challenges",
+    "authors": [
+      "Dr. S. K. Sahu",
+      "R. K. Mishra",
+      "Prof. T. S. Natarajan"
+    ],
+    "institution": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "journal": "Hydrometallurgy (Elsevier)",
+    "year": 2023,
+    "citations": 142,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "state": "Jharkhand"
+  },
+  {
+    "paper_id": "RD-2023-02",
+    "doi": "10.1039/D3EE01290K",
+    "title": "Cathode materials for next-generation solid-state lithium batteries: Status and future prospects in India",
+    "authors": [
+      "Prof. P. Senguttuvan",
+      "A. Das"
+    ],
+    "institution": "Indian Institute of Science (IISc Bangalore)",
+    "journal": "Energy & Environmental Science (RSC)",
+    "year": 2023,
+    "citations": 98,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "Karnataka"
+  },
+  {
+    "paper_id": "RD-2022-03",
+    "doi": "10.1016/j.jclepro.2022.134510",
+    "title": "Bioleaching of low-grade Sukinda nickel-cobalt laterite ore: Microbial kinetics and environmental assessment",
+    "authors": [
+      "Dr. K. G. Mishra",
+      "Dr. S. K. Behera"
+    ],
+    "institution": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "journal": "Journal of Cleaner Production",
+    "year": 2022,
+    "citations": 85,
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "state": "Odisha"
+  },
+  {
+    "paper_id": "RD-2022-04",
+    "doi": "10.1016/j.jallcom.2022.165412",
+    "title": "Development of high-energy-product NdFeB permanent magnets for electric vehicle applications: Grain boundary diffusion studies",
+    "authors": [
+      "Dr. R. Gopalan",
+      "Dr. S. Kavita"
+    ],
+    "institution": "International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI)",
+    "journal": "Journal of Alloys and Compounds",
+    "year": 2022,
+    "citations": 76,
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "Telangana"
+  },
+  {
+    "paper_id": "RD-2023-05",
+    "doi": "10.1016/j.resourpol.2023.103450",
+    "title": "India's Critical Minerals Strategy 2030: Supply vulnerabilities, geopolitical risks, and domestic technology roadmaps",
+    "authors": [
+      "Prof. R. Banerjee",
+      "Dr. A. Verma",
+      "P. Joshi"
+    ],
+    "institution": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "journal": "Resources Policy",
+    "year": 2023,
+    "citations": 115,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "state": "Maharashtra"
+  },
+  {
+    "paper_id": "RD-2024-06",
+    "doi": "10.1016/j.jpowsour.2024.234120",
+    "title": "Electrochemically enhanced hydrometallurgical recovery of pure Gallium and Germanium from zinc refinery residues",
+    "authors": [
+      "Dr. V. K. Sachdev",
+      "Prof. B. C. Meikap"
+    ],
+    "institution": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+    "journal": "Journal of Power Sources",
+    "year": 2024,
+    "citations": 32,
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "state": "West Bengal"
+  },
+  {
+    "paper_id": "RD-2021-07",
+    "doi": "10.1007/s42452-021-04501-2",
+    "title": "Extraction of vanadium from titaniferous magnetite ores of Eastern India: Pilot-scale validation",
+    "authors": [
+      "Dr. R. K. Rath",
+      "Dr. S. K. Sil"
+    ],
+    "institution": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "journal": "SN Applied Sciences (Springer)",
+    "year": 2021,
+    "citations": 48,
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "state": "Jharkhand"
+  },
+  {
+    "paper_id": "RD-2023-08",
+    "doi": "10.1016/j.carbon.2023.118230",
+    "title": "Sustainable purification of natural Indian vein graphite to nuclear and battery grade (>99.95%) without hydrofluoric acid",
+    "authors": [
+      "Prof. T. S. Natarajan",
+      "Dr. K. Balaji"
+    ],
+    "institution": "Indian Institute of Technology Madras (IIT Madras)",
+    "journal": "Carbon (Elsevier)",
+    "year": 2023,
+    "citations": 64,
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "state": "Tamil Nadu"
+  },
+  {
+    "paper_id": "RD-2024-09",
+    "doi": "10.1016/j.electacta.2024.143890",
+    "title": "Direct regeneration of delaminated LFP and NMC cathode scraps using molten salt relithiation",
+    "authors": [
+      "Dr. S. K. Pal",
+      "M. Sharma",
+      "Dr. A. K. Sahu"
+    ],
+    "institution": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "journal": "Electrochimica Acta",
+    "year": 2024,
+    "citations": 28,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "state": "Jharkhand"
+  },
+  {
+    "paper_id": "RD-2022-10",
+    "doi": "10.1016/j.mineng.2022.107560",
+    "title": "Flotation kinetics and surface chemistry of monazite separation from beach placers of Odisha coast",
+    "authors": [
+      "Dr. B. Nayak",
+      "T. Mohapatra",
+      "Dr. L. D. Besra"
+    ],
+    "institution": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "journal": "Minerals Engineering",
+    "year": 2022,
+    "citations": 52,
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "state": "Odisha"
+  },
+  {
+    "paper_id": "RD-2023-11",
+    "doi": "10.1021/acsenergylett.3c01820",
+    "title": "Solid-state electrolyte interfaces for lithium metal batteries: Mechanistic insights from Indian research labs",
+    "authors": [
+      "Prof. S. Ramakrishnan",
+      "Dr. V. Sundaram"
+    ],
+    "institution": "Indian Institute of Technology Madras (IIT Madras)",
+    "journal": "ACS Energy Letters",
+    "year": 2023,
+    "citations": 88,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "Tamil Nadu"
+  },
+  {
+    "paper_id": "RD-2021-12",
+    "doi": "10.1016/j.seppur.2021.118940",
+    "title": "Separation of dysprosium and neodymium using ionic liquid microemulsion extraction systems",
+    "authors": [
+      "Dr. J. N. Sharma",
+      "A. K. Suri"
+    ],
+    "institution": "Bhabha Atomic Research Centre (BARC)",
+    "journal": "Separation and Purification Technology",
+    "year": 2021,
+    "citations": 61,
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "state": "Maharashtra"
+  },
+  {
+    "paper_id": "RD-2023-13",
+    "doi": "10.1016/j.jallcom.2023.171240",
+    "title": "Synthesis of low-iridium nanostructured electrocatalysts for PEM water electrolysis in green hydrogen",
+    "authors": [
+      "Prof. B. C. Meikap",
+      "Dr. S. K. Das"
+    ],
+    "institution": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+    "journal": "Journal of Alloys and Compounds",
+    "year": 2023,
+    "citations": 41,
+    "critical_mineral": "Platinum Group Metals (PGM)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "West Bengal"
+  },
+  {
+    "paper_id": "RD-2022-14",
+    "doi": "10.1016/j.cej.2022.138901",
+    "title": "Recovery of battery-grade cobalt sulfate from spent mobile phone batteries using green organic acids",
+    "authors": [
+      "Dr. K. S. Murthy",
+      "A. Rastogi"
+    ],
+    "institution": "CSIR-Central Electrochemical Research Institute (CSIR-CECRI)",
+    "journal": "Chemical Engineering Journal",
+    "year": 2022,
+    "citations": 73,
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "state": "Tamil Nadu"
+  },
+  {
+    "paper_id": "RD-2024-15",
+    "doi": "10.1016/j.apgeochem.2024.105920",
+    "title": "Characterization of lithium mineralization in hard-rock pegmatites of Mandya district, Karnataka",
+    "authors": [
+      "Prof. T. K. Biswal",
+      "D. Sen"
+    ],
+    "institution": "Atomic Minerals Directorate for Exploration and Research (AMD)",
+    "journal": "Applied Geochemistry",
+    "year": 2024,
+    "citations": 23,
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "state": "Telangana"
+  },
+  {
+    "paper_id": "RD-2023-16",
+    "doi": "10.1016/j.jclepro.2023.137890",
+    "title": "Life cycle assessment of domestic synthetic graphite production vs natural graphite beneficiation in India",
+    "authors": [
+      "Prof. A. Shukla",
+      "Dr. R. Singh"
+    ],
+    "institution": "Indian Institute of Technology Delhi (IIT Delhi)",
+    "journal": "Journal of Cleaner Production",
+    "year": 2023,
+    "citations": 35,
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "Delhi NCR"
+  },
+  {
+    "paper_id": "RD-2022-17",
+    "doi": "10.1007/s12666-022-02680-1",
+    "title": "Beneficiation of multi-metal beach sand ilmenite for high-grade synthetic rutile production",
+    "authors": [
+      "Dr. M. K. Rao",
+      "V. K. Sharma"
+    ],
+    "institution": "Defence Metallurgical Research Laboratory (DMRL - DRDO)",
+    "journal": "Transactions of the Indian Institute of Metals",
+    "year": 2022,
+    "citations": 39,
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "state": "Telangana"
+  },
+  {
+    "paper_id": "RD-2024-18",
+    "doi": "10.1016/j.est.2024.110290",
+    "title": "Long-duration stationary energy storage using vanadium redox flow batteries: Indian techno-economic assessment",
+    "authors": [
+      "Prof. S. Ramanathan",
+      "Dr. M. K. Jha"
+    ],
+    "institution": "Indian Institute of Technology Madras (IIT Madras)",
+    "journal": "Journal of Energy Storage",
+    "year": 2024,
+    "citations": 19,
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "state": "Tamil Nadu"
+  }
+]

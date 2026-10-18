@@ -1,0 +1,1887 @@
+[
+  {
+    "patent_id": "IN389201",
+    "application_number": "IN201911042318",
+    "title": "Hydrometallurgical extraction of battery-grade lithium carbonate from indigenous lepidolite and spodumene pegmatites",
+    "abstract": "A novel hydrometallurgical closed-loop process for extracting battery-grade lithium carbonate (Li2CO3 > 99.5% purity) from Indian low-grade pegmatite ores using mechanized roast-acid leaching, calcium carbonate neutralization, and vacuum crystallization.",
+    "filing_year": 2019,
+    "filing_date": "2019-10-18",
+    "publication_date": "2021-04-23",
+    "grant_date": "2022-02-14",
+    "status": "Granted",
+    "assignee": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 26/12",
+      "C01D 15/02",
+      "C22B 3/08"
+    ],
+    "citations_count": 28,
+    "trl": 7,
+    "inventors": [
+      "Dr. S. K. Pal",
+      "Dr. A. K. Sahu",
+      "R. K. Mishra"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Licensed to Indian PSU (KABIL)"
+  },
+  {
+    "patent_id": "IN401824",
+    "application_number": "IN202041018902",
+    "title": "Direct regenerative recycling and delamination of end-of-life Li-ion battery cathodes using deep eutectic solvents",
+    "abstract": "An eco-friendly room-temperature delamination and regeneration technique for degraded LiCoO2 and LiNiMnCoO2 (NMC-811) cathode active materials utilizing choline chloride-urea deep eutectic solvents with 98.2% metal recovery efficiency.",
+    "filing_year": 2020,
+    "filing_date": "2020-05-04",
+    "publication_date": "2021-11-12",
+    "grant_date": "2022-08-30",
+    "status": "Granted",
+    "assignee": "Indian Institute of Technology Madras (IIT Madras)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Tamil Nadu",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "H01M 10/54",
+      "C22B 7/00",
+      "B09B 3/00"
+    ],
+    "citations_count": 42,
+    "trl": 6,
+    "inventors": [
+      "Prof. P. Ramaswamy",
+      "Dr. V. Sundaram",
+      "K. Janaki"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pilot Testing at Research Park"
+  },
+  {
+    "patent_id": "IN202111059281",
+    "application_number": "IN202111059281",
+    "title": "Industrial multi-stage hydrometallurgical recovery of high-purity lithium hydroxide and cobalt sulfate from spent black mass",
+    "abstract": "Continuous counter-current solvent extraction methodology for commercial-scale selective precipitation of lithium hydroxide monohydrate (LiOH\u00b7H2O) and cobalt sulfate heptahydrate with zero liquid discharge (ZLD).",
+    "filing_year": 2021,
+    "filing_date": "2021-12-19",
+    "publication_date": "2023-06-23",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Lohum Cleantech Pvt. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "H01M 10/54",
+      "C22B 3/26",
+      "C01D 15/02"
+    ],
+    "citations_count": 19,
+    "trl": 8,
+    "inventors": [
+      "R. Sharma",
+      "A. Rastogi",
+      "S. Bhatnagar"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Commercial Production"
+  },
+  {
+    "patent_id": "IN202221045120",
+    "application_number": "IN202221045120",
+    "title": "Scalable sol-gel synthesis of single-crystal high-nickel NMC-811 cathode active materials for electric vehicle pouch cells",
+    "abstract": "Controlled micro-reactor precipitation of spherical Ni0.8Mn0.1Co0.1(OH)2 precursor followed by rapid oxygen atmosphere calcination with micro-dopants (Zr, Al) to suppress microcracking during aggressive fast charging.",
+    "filing_year": 2022,
+    "filing_date": "2022-08-08",
+    "publication_date": "2024-02-16",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Tata Chemicals Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/525",
+      "H01M 4/505",
+      "C01G 53/00"
+    ],
+    "citations_count": 15,
+    "trl": 7,
+    "inventors": [
+      "Dr. M. S. Venkatesh",
+      "N. Deshpande",
+      "P. G. Kulkarni"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pilot Scale (Pune Center)"
+  },
+  {
+    "patent_id": "IN431902",
+    "application_number": "IN201841009823",
+    "title": "Low-temperature thermal conditioning and magnetic separation for enrichment of lithium from micaceous clays",
+    "abstract": "Energy-efficient roasting process with potassium sulfate additive at 650\u00b0C enabling 85% water-soluble lithium sulfate extraction from Indian clay deposits without refractory acid digestion.",
+    "filing_year": 2018,
+    "filing_date": "2018-03-15",
+    "publication_date": "2019-09-20",
+    "grant_date": "2023-04-11",
+    "status": "Granted",
+    "assignee": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "C22B 26/12",
+      "B03B 7/00",
+      "C22B 1/02"
+    ],
+    "citations_count": 31,
+    "trl": 6,
+    "inventors": [
+      "Dr. B. Nayak",
+      "Dr. L. D. Besra",
+      "T. Mohapatra"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Lab-Scale Demonstrated"
+  },
+  {
+    "patent_id": "IN202311028711",
+    "application_number": "IN202311028711",
+    "title": "AI and hyperspectral drill-core imaging system for automated lithium-bearing spodumene and lepidolite identification",
+    "abstract": "An edge-computing automated mineral scanning apparatus utilizing shortwave infrared (SWIR) hyperspectral cameras and convolutional neural networks to delineate lithium pegmatite veins with 96.4% precision.",
+    "filing_year": 2023,
+    "filing_date": "2023-04-19",
+    "publication_date": "2024-10-25",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01N 21/35",
+      "G06T 7/00",
+      "G01V 9/00"
+    ],
+    "citations_count": 8,
+    "trl": 5,
+    "inventors": [
+      "Prof. R. Banerjee",
+      "S. Joshi",
+      "Dr. A. Verma"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Testing with Geological Survey of India"
+  },
+  {
+    "patent_id": "IN449210",
+    "application_number": "IN201727041098",
+    "title": "Continuous extraction of lithium from brine with modified manganese oxide molecular sieves",
+    "abstract": "Direct lithium extraction (DLE) adsorption column using titanium/zirconium stabilized ion-sieve adsorbents achieving high selectivity for lithium over sodium and magnesium ions in hypersaline brines.",
+    "filing_year": 2017,
+    "filing_date": "2017-11-16",
+    "publication_date": "2018-05-18",
+    "grant_date": "2023-09-05",
+    "status": "Granted",
+    "assignee": "Albemarle Corporation (US)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "B01J 20/06",
+      "C22B 26/12",
+      "C01D 15/00"
+    ],
+    "citations_count": 64,
+    "trl": 9,
+    "inventors": [
+      "D. B. Harrison",
+      "J. R. Burba"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Global Commercial / Indian Protection"
+  },
+  {
+    "patent_id": "IN398112",
+    "application_number": "IN201941031120",
+    "title": "Fractional precipitation and solvent extraction process for high-purity Neodymium and Dysprosium oxide from monazite beach sands",
+    "abstract": "An integrated multi-stage saponified organophosphorus solvent extraction system to selectively separate and refine 99.99% pure Nd2O3 and Dy2O3 from Indian coastal monazite mineral concentrates.",
+    "filing_year": 2019,
+    "filing_date": "2019-08-01",
+    "publication_date": "2021-02-05",
+    "grant_date": "2022-06-18",
+    "status": "Granted",
+    "assignee": "IREL (India) Limited",
+    "assignee_type": "PSU / Public Sector Enterprise",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 59/00",
+      "C01F 17/00",
+      "C22B 3/26"
+    ],
+    "citations_count": 35,
+    "trl": 8,
+    "inventors": [
+      "D. Singh",
+      "K. V. Subbarao",
+      "P. K. Mishra"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Operational in OSCOM Odisha"
+  },
+  {
+    "patent_id": "IN412098",
+    "application_number": "IN202041029011",
+    "title": "Reduction-diffusion manufacturing of high-energy-product sintered Nd-Fe-B permanent magnets with grain boundary dysprosium diffusion",
+    "abstract": "Powder metallurgical processing of Nd2Fe14B anisotropic magnets incorporating vacuum grain boundary diffusion of DyF3 nanoparticles to enhance intrinsic coercivity (>25 kOe) for electric vehicle traction motors.",
+    "filing_year": 2020,
+    "filing_date": "2020-07-08",
+    "publication_date": "2022-01-14",
+    "grant_date": "2023-01-20",
+    "status": "Granted",
+    "assignee": "International Advanced Research Centre for Powder Metallurgy and New Materials (ARCI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01F 1/057",
+      "H01F 41/02",
+      "B22F 3/16"
+    ],
+    "citations_count": 29,
+    "trl": 7,
+    "inventors": [
+      "Dr. R. Gopalan",
+      "Dr. S. Kavita",
+      "V. Chandrasekaran"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pilot Manufacturing Facility"
+  },
+  {
+    "patent_id": "IN202241038910",
+    "application_number": "IN202241038910",
+    "title": "Recycling and chemical extraction of Neodymium and Praseodymium from end-of-life wind turbine permanent magnet generators",
+    "abstract": "A selective oxidative roasting and organic acid leaching process that selectively dissolves Nd/Pr from demagnetized NdFeB scrap without dissolving iron, reducing chemical reagent consumption by 60%.",
+    "filing_year": 2022,
+    "filing_date": "2022-07-06",
+    "publication_date": "2024-01-12",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Bhabha Atomic Research Centre (BARC)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "C22B 59/00",
+      "H01F 1/057",
+      "C22B 7/00"
+    ],
+    "citations_count": 14,
+    "trl": 6,
+    "inventors": [
+      "Dr. J. N. Sharma",
+      "A. K. Suri",
+      "M. B. Rao"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Lab-scale Optimization"
+  },
+  {
+    "patent_id": "IN202121014589",
+    "application_number": "IN202121014589",
+    "title": "Subsurface radiometrics and aeromagnetic anomaly mapping algorithm for alkaline complex carbonatite REE deposits",
+    "abstract": "Machine-learning fusion of airborne gamma-ray spectrometry (Thorium/Potassium channels) and satellite gravity gradiometry for locating hidden rare earth carbonatite complexes in western India.",
+    "filing_year": 2021,
+    "filing_date": "2021-03-31",
+    "publication_date": "2022-10-07",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 3/16",
+      "G01V 5/00",
+      "E21B 49/00"
+    ],
+    "citations_count": 11,
+    "trl": 5,
+    "inventors": [
+      "Prof. T. K. Biswal",
+      "D. Sen",
+      "R. K. Gupta"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Proof of Concept"
+  },
+  {
+    "patent_id": "IN438912",
+    "application_number": "IN201927018920",
+    "title": "Apparatus and molten salt electrolysis method for high-purity Neodymium metal reduction",
+    "abstract": "Fluoride-oxide molten salt electrolytic cell with active inert anode configuration preventing greenhouse CF4 gas emission during continuous smelting of Nd metal.",
+    "filing_year": 2019,
+    "filing_date": "2019-05-12",
+    "publication_date": "2020-06-19",
+    "grant_date": "2023-07-28",
+    "status": "Granted",
+    "assignee": "Shin-Etsu Chemical Co., Ltd. (Japan)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C25C 3/34",
+      "C22B 59/00"
+    ],
+    "citations_count": 51,
+    "trl": 9,
+    "inventors": [
+      "T. Minowa",
+      "K. Hirota"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Global Patent Family / Indian Filing"
+  },
+  {
+    "patent_id": "IN378901",
+    "application_number": "IN201831024501",
+    "title": "Bio-hydrometallurgical extraction of nickel and cobalt from chromite overburden of Sukinda valley",
+    "abstract": "Microbial heap-leaching using indigenous strains of Acidithiobacillus ferrooxidans to extract 78% Nickel and 65% Cobalt from low-grade serpentinous chromite overburden waste dumps.",
+    "filing_year": 2018,
+    "filing_date": "2018-06-29",
+    "publication_date": "2020-01-03",
+    "grant_date": "2021-10-12",
+    "status": "Granted",
+    "assignee": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "C22B 3/18",
+      "C22B 23/00",
+      "B09B 3/00"
+    ],
+    "citations_count": 39,
+    "trl": 7,
+    "inventors": [
+      "Dr. K. G. Mishra",
+      "Dr. S. K. Behera",
+      "P. Pradhan"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Demonstrated at Sukinda site"
+  },
+  {
+    "patent_id": "IN405678",
+    "application_number": "IN202011037812",
+    "title": "Pressure acid leaching of polymetallic sea nodules for co-recovery of copper, nickel, cobalt and manganese",
+    "abstract": "Autoclave sulfuric acid leaching at 220\u00b0C and 2.5 MPa yielding >95% selective dissolution of nickel and cobalt from Central Indian Ocean Basin polymetallic nodules with silica gel control.",
+    "filing_year": 2020,
+    "filing_date": "2020-09-02",
+    "publication_date": "2022-03-11",
+    "grant_date": "2022-11-25",
+    "status": "Granted",
+    "assignee": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 3/08",
+      "C22B 23/00",
+      "C22B 47/00"
+    ],
+    "citations_count": 33,
+    "trl": 7,
+    "inventors": [
+      "Dr. B. D. Pandey",
+      "Dr. V. Kumar",
+      "D. Bagchi"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "MoES Deep Ocean Mission Partner"
+  },
+  {
+    "patent_id": "IN202211054321",
+    "application_number": "IN202211054321",
+    "title": "Zero-cobalt high-voltage nickel-manganese spinel cathode (LNMO) synthesis for solid-state batteries",
+    "abstract": "Hydrothermal synthesis of disordered LiNi0.5Mn1.5O4 spinel with surface titanium fluoride passivation enabling stable 4.7V cycle life and eliminating supply-critical cobalt dependencies.",
+    "filing_year": 2022,
+    "filing_date": "2022-09-22",
+    "publication_date": "2024-03-29",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Science (IISc Bangalore)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Karnataka",
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/505",
+      "H01M 4/525",
+      "H01M 10/052"
+    ],
+    "citations_count": 16,
+    "trl": 5,
+    "inventors": [
+      "Prof. P. Senguttuvan",
+      "A. Das",
+      "N. Roy"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Laboratory Prototype"
+  },
+  {
+    "patent_id": "IN202321019800",
+    "application_number": "IN202321019800",
+    "title": "Industrial hydrometallurgical closed-loop refining of battery grade nickel sulfate from spent petrochemical catalysts",
+    "abstract": "Two-stage solvent extraction process utilizing Cyanex 272 and Versatic 10 to recover high-purity NiSO4 (>99.9% purity) with less than 5 ppm calcium and magnesium contaminants.",
+    "filing_year": 2023,
+    "filing_date": "2023-03-23",
+    "publication_date": "2024-09-27",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Reliance New Energy Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Gujarat",
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "C22B 23/00",
+      "C01G 53/10",
+      "B01D 11/04"
+    ],
+    "citations_count": 7,
+    "trl": 7,
+    "inventors": [
+      "Dr. K. S. Murthy",
+      "S. Agrawal",
+      "H. Parekh"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Jamnagar Giga-Complex Implementation"
+  },
+  {
+    "patent_id": "IN392401",
+    "application_number": "IN201941017845",
+    "title": "Non-hydrofluoric chemical purification and high-temperature spheroidization of natural vein graphite for battery anodes",
+    "abstract": "Eco-friendly alkaline roasting followed by organic acid leaching producing 99.95% purity battery-grade spherical graphite (D50=16 um) without using hazardous hydrofluoric (HF) acid.",
+    "filing_year": 2019,
+    "filing_date": "2019-05-02",
+    "publication_date": "2020-11-06",
+    "grant_date": "2022-03-24",
+    "status": "Granted",
+    "assignee": "Indian Institute of Technology Madras (IIT Madras)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Tamil Nadu",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01B 32/215",
+      "H01M 4/133",
+      "C01B 32/205"
+    ],
+    "citations_count": 27,
+    "trl": 7,
+    "inventors": [
+      "Prof. T. S. Natarajan",
+      "Dr. K. Balaji",
+      "S. Annamalai"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Transferred to Anode Manufacturer"
+  },
+  {
+    "patent_id": "IN202121040819",
+    "application_number": "IN202121040819",
+    "title": "Continuous graphitization reactor for pitch-based synthetic graphite with pitch coating for high-rate Li-ion cells",
+    "abstract": "Energy-optimized horizontal Acheson-type continuous furnace achieving graphitization degree >94% with nitrogen-doped amorphous carbon shell coating preventing electrolyte exfoliation.",
+    "filing_year": 2021,
+    "filing_date": "2021-09-09",
+    "publication_date": "2023-03-17",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Epsilon Advanced Materials Pvt. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Karnataka",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C01B 32/205",
+      "H01M 4/583",
+      "H01M 10/0525"
+    ],
+    "citations_count": 22,
+    "trl": 8,
+    "inventors": [
+      "V. Saraf",
+      "Dr. S. K. Maiti",
+      "P. Chakraborty"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Commercial Plant in Bellary"
+  },
+  {
+    "patent_id": "IN428190",
+    "application_number": "IN201831039820",
+    "title": "Column flotation beneficiation of low-grade amorphous graphite ores from Arunachal Pradesh",
+    "abstract": "Microbubble column flotation reagent system using composite bio-collector achieving carbon enrichment from 12% fixed carbon feed to 86% concentrate with 91% metallurgical recovery.",
+    "filing_year": 2018,
+    "filing_date": "2018-10-23",
+    "publication_date": "2020-05-01",
+    "grant_date": "2023-03-15",
+    "status": "Granted",
+    "assignee": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03D 1/02",
+      "C01B 32/20",
+      "B03B 1/00"
+    ],
+    "citations_count": 20,
+    "trl": 6,
+    "inventors": [
+      "Dr. S. S. Rath",
+      "Dr. S. K. Tripathy",
+      "H. Sahu"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Field Trial with State Mining Dept"
+  },
+  {
+    "patent_id": "IN202311059812",
+    "application_number": "IN202311059812",
+    "title": "Silicon-graphite composite anode architecture with conductive polymer binder for 1000-cycle fast-charging batteries",
+    "abstract": "Hierarchical porous synthetic graphite core with in-situ nano-silicon deposition and self-healing poly(acrylic acid) conductive hydrogel network tolerating 300% volume expansion.",
+    "filing_year": 2023,
+    "filing_date": "2023-09-04",
+    "publication_date": "2025-03-07",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Delhi (IIT Delhi)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/38",
+      "H01M 4/36",
+      "H01M 4/62"
+    ],
+    "citations_count": 9,
+    "trl": 5,
+    "inventors": [
+      "Prof. A. Shukla",
+      "Dr. R. Singh",
+      "M. Sharma"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Patent Published / Evaluation Stage"
+  },
+  {
+    "patent_id": "IN384102",
+    "application_number": "IN201941005112",
+    "title": "Fluidized bed chlorination of indigenous synthetic rutile for aerospace grade titanium tetrachloride (TiCl4)",
+    "abstract": "Continuous bubbling fluidized bed reactor using low-ash petroleum coke for chlorinating high-iron synthetic rutile derived from Chavara ilmenite with 96% chlorine utilization.",
+    "filing_year": 2019,
+    "filing_date": "2019-02-08",
+    "publication_date": "2020-08-14",
+    "grant_date": "2021-12-28",
+    "status": "Granted",
+    "assignee": "Defence Metallurgical Research Laboratory (DMRL - DRDO)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01G 23/02",
+      "C22B 34/12",
+      "B01J 8/18"
+    ],
+    "citations_count": 37,
+    "trl": 8,
+    "inventors": [
+      "Dr. M. K. Rao",
+      "V. K. Sharma",
+      "P. K. Ghosh"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "KMML Titanium Sponge Plant (Chavara)"
+  },
+  {
+    "patent_id": "IN419820",
+    "application_number": "IN202031049210",
+    "title": "Roasting and water leaching recovery of vanadium pentoxide from titaniferous magnetite ores of Mayurbhanj",
+    "abstract": "Sodium carbonate pelletized roasting at 900\u00b0C followed by pressure water leaching achieving >88% vanadium recovery as ammonium metavanadate and high-grade V2O5 flakes.",
+    "filing_year": 2020,
+    "filing_date": "2020-11-18",
+    "publication_date": "2022-05-20",
+    "grant_date": "2023-02-17",
+    "status": "Granted",
+    "assignee": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "C22B 34/22",
+      "C01G 31/02",
+      "C22B 1/02"
+    ],
+    "citations_count": 26,
+    "trl": 7,
+    "inventors": [
+      "Dr. R. K. Rath",
+      "Dr. S. K. Sil",
+      "A. Panda"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "MoU with State PSU"
+  },
+  {
+    "patent_id": "IN202241021980",
+    "application_number": "IN202241021980",
+    "title": "High energy density vanadium redox flow battery electrolyte formulation with mixed hydrochloric-sulfuric acid",
+    "abstract": "Stable 2.5M vanadium ion electrolyte solution containing phosphate anti-precipitation additives enabling operational temperature threshold up to 50\u00b0C without active thermal management.",
+    "filing_year": 2022,
+    "filing_date": "2022-04-13",
+    "publication_date": "2023-10-20",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Madras (IIT Madras)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Tamil Nadu",
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 8/18",
+      "C01G 31/00",
+      "H01M 8/02"
+    ],
+    "citations_count": 18,
+    "trl": 6,
+    "inventors": [
+      "Prof. S. Ramanathan",
+      "Dr. M. K. Jha",
+      "G. Krishna"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Stationary Storage Pilot Demo"
+  },
+  {
+    "patent_id": "IN202331008450",
+    "application_number": "IN202331008450",
+    "title": "Beneficiation of multi-phase red mud bauxite residue for concentrated scandium, titanium, and rare earth oxides",
+    "abstract": "Combined magnetic roasting, acid leaching, and ion exchange chromatography to extract marketable titanium dioxide (TiO2 >98%) and rare elements from NALCO alumina refinery red mud.",
+    "filing_year": 2023,
+    "filing_date": "2023-02-09",
+    "publication_date": "2024-08-16",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "National Aluminium Company Limited (NALCO)",
+    "assignee_type": "PSU / Public Sector Enterprise",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "C22B 34/12",
+      "C22B 7/00",
+      "B09B 3/00"
+    ],
+    "citations_count": 12,
+    "trl": 6,
+    "inventors": [
+      "P. C. Swain",
+      "Dr. S. K. Patel",
+      "R. Mohanty"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Damanjodi Pilot Plant"
+  },
+  {
+    "patent_id": "IN415890",
+    "application_number": "IN202021021400",
+    "title": "Solvent extraction separation of tantalum and niobium using methyl isobutyl ketone from columbite-tantalite ores",
+    "abstract": "High-efficiency MIBK and tertiary amine extraction system achieving individual Ta2O5 and Nb2O5 purity >99.9% suitable for electronic capacitors and niobium microalloyed structural steel.",
+    "filing_year": 2020,
+    "filing_date": "2020-05-21",
+    "publication_date": "2021-11-26",
+    "grant_date": "2023-01-05",
+    "status": "Granted",
+    "assignee": "Bhabha Atomic Research Centre (BARC)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Niobium & Tantalum (Nb/Ta)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 34/24",
+      "C01G 33/00",
+      "C01G 35/00"
+    ],
+    "citations_count": 25,
+    "trl": 8,
+    "inventors": [
+      "Dr. C. K. Gupta",
+      "N. Krishnamurthy",
+      "P. V. Rao"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Supplying DAE special materials"
+  },
+  {
+    "patent_id": "IN202211068902",
+    "application_number": "IN202211068902",
+    "title": "Electrochemical recovery of 6N-purity Gallium metal from Bayer process liquor in alumina refineries",
+    "abstract": "Amalgamated rotating cathode electrolysis cell coupled with surfactant-mediated ion exchange resin to directly isolate semiconductor-grade (99.9999%) gallium metal from Indian caustic Bayer liquors.",
+    "filing_year": 2022,
+    "filing_date": "2022-11-29",
+    "publication_date": "2024-06-07",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Council of Scientific and Industrial Research (CSIR-HQ)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C25C 1/22",
+      "C22B 58/00",
+      "C01G 15/00"
+    ],
+    "citations_count": 14,
+    "trl": 6,
+    "inventors": [
+      "Dr. V. K. Sachdev",
+      "Dr. A. K. Sen",
+      "M. B. Roy"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pilot scale validation with Hindalco"
+  },
+  {
+    "patent_id": "IN202341045610",
+    "application_number": "IN202341045610",
+    "title": "Semiconductor-grade Gallium Nitride (GaN) epi-layer growth on low-cost engineered substrates for high-power devices",
+    "abstract": "Metal-organic chemical vapor deposition (MOCVD) process employing stress-relaxing transition layers to grow defect-free GaN crystalline thin films for 5G telecommunication RF modules.",
+    "filing_year": 2023,
+    "filing_date": "2023-07-07",
+    "publication_date": "2025-01-10",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Science (IISc Bangalore)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Karnataka",
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C30B 25/18",
+      "H01L 21/02",
+      "C23C 16/34"
+    ],
+    "citations_count": 8,
+    "trl": 5,
+    "inventors": [
+      "Prof. S. Raghavan",
+      "Dr. K. N. Bhat",
+      "P. Swaminathan"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "CeNSE Cleanroom Demonstration"
+  },
+  {
+    "patent_id": "IN441208",
+    "application_number": "IN201917032109",
+    "title": "Vapor phase refining and zone melting crystallization for ultra-high purity Germanium single crystals",
+    "abstract": "Continuous multiple-pass radiofrequency induction zone refining furnace producing detector-grade germanium ingots with residual carrier concentrations <10^10 cm^-3 for infrared optics and gamma detectors.",
+    "filing_year": 2019,
+    "filing_date": "2019-08-11",
+    "publication_date": "2020-09-18",
+    "grant_date": "2023-08-14",
+    "status": "Granted",
+    "assignee": "Umicore NV/SA (Belgium)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C30B 13/00",
+      "C22B 58/00",
+      "C01G 17/00"
+    ],
+    "citations_count": 46,
+    "trl": 9,
+    "inventors": [
+      "P. Van Nooten",
+      "J. Van Der Eecken"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Global Standard"
+  },
+  {
+    "patent_id": "IN418720",
+    "application_number": "IN202041011290",
+    "title": "Microwave-assisted catalytic hydrometallurgical recovery of Platinum and Palladium from spent automotive three-way catalytic converters",
+    "abstract": "Accelerated leaching utilizing mild hydrogen peroxide-hydrochloric acid mixtures under controlled microwave radiation yielding >96% Pt and Pd extraction within 45 minutes at 80\u00b0C.",
+    "filing_year": 2020,
+    "filing_date": "2020-03-16",
+    "publication_date": "2021-09-24",
+    "grant_date": "2023-02-09",
+    "status": "Granted",
+    "assignee": "Indian Institute of Technology Kharagpur (IIT Kharagpur)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Platinum Group Metals (PGM)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "C22B 11/00",
+      "C22B 7/00",
+      "B01J 38/00"
+    ],
+    "citations_count": 34,
+    "trl": 6,
+    "inventors": [
+      "Prof. B. C. Meikap",
+      "Dr. S. K. Das",
+      "T. K. Roy"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Licensed to E-waste Recycler"
+  },
+  {
+    "patent_id": "IN202221061240",
+    "application_number": "IN202221061240",
+    "title": "Low-iridium proton exchange membrane (PEM) water electrolyzer catalyst coated membrane with enhanced durability",
+    "abstract": "Core-shell IrO2@TiO2 catalyst architecture reducing critical iridium loading to 0.2 mg/cm2 while sustaining over 5000 hours of continuous operation at 2 A/cm2 for green hydrogen generation.",
+    "filing_year": 2022,
+    "filing_date": "2022-10-27",
+    "publication_date": "2024-05-03",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Reliance New Energy Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Gujarat",
+    "critical_mineral": "Platinum Group Metals (PGM)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C25B 11/04",
+      "C25B 1/04",
+      "H01M 4/92"
+    ],
+    "citations_count": 13,
+    "trl": 7,
+    "inventors": [
+      "Dr. S. K. Sundaram",
+      "A. V. Rao",
+      "V. Joshi"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Internal R&D for Giga Factory"
+  },
+  {
+    "patent_id": "IN452109",
+    "application_number": "IN201917045100",
+    "title": "High-nickel low-cobalt active cathode material and secondary lithium battery containing the same",
+    "abstract": "Single crystal LiNi0.90Co0.05Mn0.05O2 stabilized with dual-element concentration gradient surface layer preventing micro-crack propagation during high-voltage cycling.",
+    "filing_year": 2019,
+    "filing_date": "2019-11-06",
+    "publication_date": "2020-12-11",
+    "grant_date": "2023-10-18",
+    "status": "Granted",
+    "assignee": "Contemporary Amperex Technology Co., Ltd. (CATL - China)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/525",
+      "H01M 4/505",
+      "H01M 10/0525"
+    ],
+    "citations_count": 78,
+    "trl": 9,
+    "inventors": [
+      "Z. Liang",
+      "Q. Chen",
+      "W. Zhang"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Commercialized Worldwide / InPASS Protected"
+  },
+  {
+    "patent_id": "IN439908",
+    "application_number": "IN201817028901",
+    "title": "Method of separating lithium hydroxide and lithium carbonate from sulfate solution",
+    "abstract": "Electrodialysis with bipolar membranes (EDBM) to directly regenerate high-purity LiOH solution and sulfuric acid from lithium sulfate leach liquor without chemical lime precipitation.",
+    "filing_year": 2018,
+    "filing_date": "2018-08-01",
+    "publication_date": "2019-09-06",
+    "grant_date": "2023-07-14",
+    "status": "Granted",
+    "assignee": "POSCO Holdings Inc. (South Korea)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "B01D 61/44",
+      "C01D 15/02",
+      "C22B 26/12"
+    ],
+    "citations_count": 53,
+    "trl": 9,
+    "inventors": [
+      "H. K. Park",
+      "S. J. Lee"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Deployed in Industrial Refining"
+  },
+  {
+    "patent_id": "IN202341061900",
+    "application_number": "IN202341061900",
+    "title": "Pre-lithiated hard carbon anode architecture derived from agro-waste biomass for sodium and lithium batteries",
+    "abstract": "High surface area hard carbon synthesized from coconut coir and rice husk pyrolyzed at 1300\u00b0C under argon with chemical pre-lithiation to boost initial coulombic efficiency to 93%.",
+    "filing_year": 2023,
+    "filing_date": "2023-09-15",
+    "publication_date": "2025-03-21",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Altmin Private Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/583",
+      "C01B 32/05",
+      "H01M 10/054"
+    ],
+    "citations_count": 6,
+    "trl": 7,
+    "inventors": [
+      "M. Ananth",
+      "K. S. Reddy",
+      "P. V. Sastry"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Commercial Precursor Facility"
+  },
+  {
+    "patent_id": "IN202441018900",
+    "application_number": "IN202441018900",
+    "title": "Solid-state electrolyte composite membrane with functionalized lithium garnet (LLZO) nanoparticles",
+    "abstract": "Flexible polymer-ceramic hybrid solid electrolyte membrane exhibiting high ionic conductivity (1.2 x 10^-3 S/cm at 25\u00b0C) and dendrite suppression capability for safe solid-state lithium cells.",
+    "filing_year": 2024,
+    "filing_date": "2024-03-12",
+    "publication_date": "2025-09-19",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Ola Cell Technologies Pvt. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Karnataka",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 10/056",
+      "H01M 10/052",
+      "C04B 35/48"
+    ],
+    "citations_count": 4,
+    "trl": 6,
+    "inventors": [
+      "B. Aggarwal",
+      "Dr. S. Mukherjee",
+      "K. V. Raman"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Gigafactory Pilot Testing"
+  },
+  {
+    "patent_id": "IN421908",
+    "application_number": "IN201931011245",
+    "title": "Integrated mineral processing flow sheet for recovery of low-grade titanium and vanadium from titanomagnetite tailings",
+    "abstract": "Multi-gravity separation followed by high-intensity wet magnetic separation recovering 74% TiO2 and 81% V2O5 from rejected iron ore beneficiation tailings.",
+    "filing_year": 2019,
+    "filing_date": "2019-03-22",
+    "publication_date": "2020-09-25",
+    "grant_date": "2023-02-28",
+    "status": "Granted",
+    "assignee": "Tata Steel Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03C 1/00",
+      "B03B 7/00",
+      "C22B 34/12"
+    ],
+    "citations_count": 21,
+    "trl": 7,
+    "inventors": [
+      "Dr. P. K. Banerjee",
+      "S. Das",
+      "A. K. Mukherjee"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Industrial Tailings Plant"
+  },
+  {
+    "patent_id": "IN2023161234",
+    "application_number": "IN2023161234",
+    "title": "Multi-spectral remote sensing for Salal-Haimana lithium bauxite ore delineation",
+    "abstract": "A targeted technological process and apparatus for multi-spectral remote sensing for salal-haimana lithium bauxite ore delineation addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2023,
+    "filing_date": "2023-04-25",
+    "publication_date": "2024-08-25",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Geological Survey of India (GSI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 9/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 18,
+    "trl": 5,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Geol Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN2022162468",
+    "application_number": "IN2022162468",
+    "title": "Hydro-extraction of battery cathode cobalt precursors with organic chelating agents",
+    "abstract": "A targeted technological process and apparatus for hydro-extraction of battery cathode cobalt precursors with organic chelating agents addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-04-15",
+    "publication_date": "2023-08-12",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Lohum Cleantech Pvt. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "H01M 10/54",
+      "C01G 1/00"
+    ],
+    "citations_count": 40,
+    "trl": 8,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Lohu Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN457766",
+    "application_number": "IN2021163702",
+    "title": "Selective precipitation of nickel carbonate from copper electrorefining spent electrolyte bleed",
+    "abstract": "A targeted technological process and apparatus for selective precipitation of nickel carbonate from copper electrorefining spent electrolyte bleed addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-04-12",
+    "publication_date": "2022-06-11",
+    "grant_date": "2023-02-23",
+    "status": "Granted",
+    "assignee": "Hindustan Copper Limited (HCL)",
+    "assignee_type": "PSU / Public Sector Enterprise",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 23/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 22,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Hind Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN390442",
+    "application_number": "IN2020364936",
+    "title": "Column flotation for monazite beneficiation from inland placer deposits with novel collectors",
+    "abstract": "A targeted technological process and apparatus for column flotation for monazite beneficiation from inland placer deposits with novel collectors addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-04-19",
+    "publication_date": "2021-07-19",
+    "grant_date": "2022-05-13",
+    "status": "Granted",
+    "assignee": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03D 1/02",
+      "C22B 3/00"
+    ],
+    "citations_count": 33,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN392377",
+    "application_number": "IN2021466170",
+    "title": "Vacuum arc remelting process for aerospace-grade Ti-6Al-4V titanium alloy ingots",
+    "abstract": "A targeted technological process and apparatus for vacuum arc remelting process for aerospace-grade ti-6al-4v titanium alloy ingots addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-06-19",
+    "publication_date": "2022-02-17",
+    "grant_date": "2023-08-22",
+    "status": "Granted",
+    "assignee": "Mishra Dhatu Nigam Limited (MIDHANI)",
+    "assignee_type": "PSU / Public Sector Enterprise",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C22C 14/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 33,
+    "trl": 8,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Mish Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2023267404",
+    "application_number": "IN2023267404",
+    "title": "Electrochemical re-graphitization and regeneration of spent battery graphite anodes",
+    "abstract": "A targeted technological process and apparatus for electrochemical re-graphitization and regeneration of spent battery graphite anodes addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2023,
+    "filing_date": "2023-04-23",
+    "publication_date": "2024-04-24",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "H01M 10/54",
+      "C01G 1/00"
+    ],
+    "citations_count": 22,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Indi Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN414244",
+    "application_number": "IN2021368638",
+    "title": "Hydrometallurgical purification of high-purity vanadium pentoxide from spent sulfuric acid catalyst mass",
+    "abstract": "A targeted technological process and apparatus for hydrometallurgical purification of high-purity vanadium pentoxide from spent sulfuric acid catalyst mass addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-08-23",
+    "publication_date": "2022-08-23",
+    "grant_date": "2023-01-23",
+    "status": "Granted",
+    "assignee": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01G 31/02",
+      "C01G 1/00"
+    ],
+    "citations_count": 38,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2022369872",
+    "application_number": "IN2022369872",
+    "title": "Gravity pre-concentration and magnetic roasting of low-grade columbite-tantalite pegmatite",
+    "abstract": "A targeted technological process and apparatus for gravity pre-concentration and magnetic roasting of low-grade columbite-tantalite pegmatite addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-04-14",
+    "publication_date": "2023-01-13",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology (BHU) Varanasi",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Uttar Pradesh",
+    "critical_mineral": "Niobium & Tantalum (Nb/Ta)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03B 9/00",
+      "C22B 3/00"
+    ],
+    "citations_count": 14,
+    "trl": 5,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Indi Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN2023371106",
+    "application_number": "IN2023371106",
+    "title": "Hydrometallurgical recovery of Gallium and Germanium from zinc hydrometallurgical leach residues",
+    "abstract": "A targeted technological process and apparatus for hydrometallurgical recovery of gallium and germanium from zinc hydrometallurgical leach residues addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2023,
+    "filing_date": "2023-02-28",
+    "publication_date": "2024-08-17",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "CSIR-National Metallurgical Laboratory (CSIR-NML)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "C22B 58/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 19,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN2022172340",
+    "application_number": "IN2022172340",
+    "title": "Heavy-rare-earth-free rotor design for high-power electric vehicle traction motors",
+    "abstract": "A targeted technological process and apparatus for heavy-rare-earth-free rotor design for high-power electric vehicle traction motors addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-05-20",
+    "publication_date": "2023-04-17",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Sona Comstar (Sona BLW Precision Forgings)",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H02K 1/27",
+      "C01G 1/00"
+    ],
+    "citations_count": 20,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Sona Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN428804",
+    "application_number": "IN2021373574",
+    "title": "Selective froth flotation reagent regime for spodumene from silicate gangue minerals",
+    "abstract": "A targeted technological process and apparatus for selective froth flotation reagent regime for spodumene from silicate gangue minerals addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-03-19",
+    "publication_date": "2022-03-16",
+    "grant_date": "2023-08-25",
+    "status": "Granted",
+    "assignee": "CSIR-Institute of Minerals and Materials Technology (CSIR-IMMT)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Odisha",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03D 1/00",
+      "C22B 3/00"
+    ],
+    "citations_count": 21,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2022174808",
+    "application_number": "IN2022174808",
+    "title": "High tap-density lithium cobalt oxide cathode material formulation for ultra-thin consumer electronics",
+    "abstract": "A targeted technological process and apparatus for high tap-density lithium cobalt oxide cathode material formulation for ultra-thin consumer electronics addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-01-12",
+    "publication_date": "2023-06-17",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Exide Energy Solutions Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/525",
+      "C01G 1/00"
+    ],
+    "citations_count": 38,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Exid Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN380886",
+    "application_number": "IN2020476042",
+    "title": "Deep electrical resistivity tomography (ERT) for identifying blind crystalline graphite deposits",
+    "abstract": "A targeted technological process and apparatus for deep electrical resistivity tomography (ert) for identifying blind crystalline graphite deposits addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-03-10",
+    "publication_date": "2021-09-10",
+    "grant_date": "2022-09-14",
+    "status": "Granted",
+    "assignee": "National Geophysical Research Institute (CSIR-NGRI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 3/08",
+      "C01G 1/00"
+    ],
+    "citations_count": 8,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Nati Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN397716",
+    "application_number": "IN2021477276",
+    "title": "Ionic liquid extraction of high-purity platinum complexes from industrial effluents",
+    "abstract": "A targeted technological process and apparatus for ionic liquid extraction of high-purity platinum complexes from industrial effluents addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-07-18",
+    "publication_date": "2022-04-14",
+    "grant_date": "2023-07-15",
+    "status": "Granted",
+    "assignee": "Indian Institute of Science (IISc Bangalore)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Karnataka",
+    "critical_mineral": "Platinum Group Metals (PGM)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 11/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 14,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Indi Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2023278510",
+    "application_number": "IN2023278510",
+    "title": "Dry electrode coating process for high-energy lithium iron phosphate battery cells",
+    "abstract": "A targeted technological process and apparatus for dry electrode coating process for high-energy lithium iron phosphate battery cells addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2023,
+    "filing_date": "2023-05-22",
+    "publication_date": "2024-03-10",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Godrej & Boyce Mfg. Co. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/13",
+      "C01G 1/00"
+    ],
+    "citations_count": 26,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Godr Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN448156",
+    "application_number": "IN2020479744",
+    "title": "Airborne gamma-ray spectrometry for mapping heavy mineral coastal sand deposits of Tamil Nadu",
+    "abstract": "A targeted technological process and apparatus for airborne gamma-ray spectrometry for mapping heavy mineral coastal sand deposits of tamil nadu addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-04-20",
+    "publication_date": "2021-04-22",
+    "grant_date": "2022-03-15",
+    "status": "Granted",
+    "assignee": "Atomic Minerals Directorate for Exploration and Research (AMD)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 5/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 12,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Atom Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2023480978",
+    "application_number": "IN2023480978",
+    "title": "Al-doped nickel-rich layered oxide cathode with suppressed phase transition at high voltage",
+    "abstract": "A targeted technological process and apparatus for al-doped nickel-rich layered oxide cathode with suppressed phase transition at high voltage addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2023,
+    "filing_date": "2023-02-10",
+    "publication_date": "2024-09-18",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Indian Institute of Technology Madras (IIT Madras)",
+    "assignee_type": "Premier Academic (IITs/IISc)",
+    "assignee_state": "Tamil Nadu",
+    "critical_mineral": "Nickel (Ni)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "H01M 4/525",
+      "C01G 1/00"
+    ],
+    "citations_count": 6,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Indi Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN2022182212",
+    "application_number": "IN2022182212",
+    "title": "Laser-induced breakdown spectroscopy (LIBS) field sensor for real-time REE assaying",
+    "abstract": "A targeted technological process and apparatus for laser-induced breakdown spectroscopy (libs) field sensor for real-time ree assaying addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-09-17",
+    "publication_date": "2023-04-28",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Geological Survey of India (GSI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01N 21/64",
+      "C01G 1/00"
+    ],
+    "citations_count": 31,
+    "trl": 5,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Geol Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN438218",
+    "application_number": "IN2021283446",
+    "title": "Mixed metal oxide coated titanium anode with vanadium catalytic layer for chlor-alkali cells",
+    "abstract": "A targeted technological process and apparatus for mixed metal oxide coated titanium anode with vanadium catalytic layer for chlor-alkali cells addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-04-22",
+    "publication_date": "2022-03-12",
+    "grant_date": "2023-04-19",
+    "status": "Granted",
+    "assignee": "De Nora India Limited",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Goa",
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C25B 11/04",
+      "C01G 1/00"
+    ],
+    "citations_count": 26,
+    "trl": 8,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. De N Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN396261",
+    "application_number": "IN2020184680",
+    "title": "Purification process of lithium chloride solutions using chelating resin fixed-bed adsorbers",
+    "abstract": "A targeted technological process and apparatus for purification process of lithium chloride solutions using chelating resin fixed-bed adsorbers addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-08-12",
+    "publication_date": "2021-01-21",
+    "grant_date": "2022-06-18",
+    "status": "Granted",
+    "assignee": "BASF SE (Germany)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01D 15/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 23,
+    "trl": 9,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. BASF Lead"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN390407",
+    "application_number": "IN2019185914",
+    "title": "Continuous crystallization of spherical cobalt hydroxide precursor with controlled particle size distribution",
+    "abstract": "A targeted technological process and apparatus for continuous crystallization of spherical cobalt hydroxide precursor with controlled particle size distribution addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2019,
+    "filing_date": "2019-07-19",
+    "publication_date": "2020-05-14",
+    "grant_date": "2021-07-22",
+    "status": "Granted",
+    "assignee": "Umicore NV/SA (Belgium)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C22B 23/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 20,
+    "trl": 9,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Umic Lead"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN380091",
+    "application_number": "IN2020187148",
+    "title": "Separation of heavy rare earths using synergistic extractant system containing organophosphorus derivatives",
+    "abstract": "A targeted technological process and apparatus for separation of heavy rare earths using synergistic extractant system containing organophosphorus derivatives addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-01-13",
+    "publication_date": "2021-02-18",
+    "grant_date": "2022-04-21",
+    "status": "Granted",
+    "assignee": "Solvay SA (Belgium)",
+    "assignee_type": "Foreign Assignee in India",
+    "assignee_state": "Delhi NCR",
+    "critical_mineral": "Rare Earth Elements (REE - Nd, Dy, Pr)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01F 17/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 25,
+    "trl": 9,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Solv Lead"
+    ],
+    "foreign_priority": true,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN451006",
+    "application_number": "IN2021488382",
+    "title": "Electrochemical exfoliation of Indian flake graphite into high-surface-area graphene nanosheets",
+    "abstract": "A targeted technological process and apparatus for electrochemical exfoliation of indian flake graphite into high-surface-area graphene nanosheets addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-09-26",
+    "publication_date": "2022-06-10",
+    "grant_date": "2023-06-27",
+    "status": "Granted",
+    "assignee": "CSIR-Central Electrochemical Research Institute (CSIR-CECRI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Tamil Nadu",
+    "critical_mineral": "Graphite (C)",
+    "value_chain_stage": "3. Refining & High-Purity Chemical Processing",
+    "ipc_classes": [
+      "C01B 32/215",
+      "C01G 1/00"
+    ],
+    "citations_count": 36,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN413665",
+    "application_number": "IN2021389616",
+    "title": "Thermal vacuum pyrolysis and mechanical disintegration process for lithium-ion battery black mass separation",
+    "abstract": "A targeted technological process and apparatus for thermal vacuum pyrolysis and mechanical disintegration process for lithium-ion battery black mass separation addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-02-17",
+    "publication_date": "2022-07-28",
+    "grant_date": "2023-03-11",
+    "status": "Granted",
+    "assignee": "Attero Recycling Pvt. Ltd.",
+    "assignee_type": "Indian Private Industry",
+    "assignee_state": "Uttar Pradesh",
+    "critical_mineral": "Lithium (Li)",
+    "value_chain_stage": "5. Recycling & Secondary Recovery",
+    "ipc_classes": [
+      "H01M 10/54",
+      "C01G 1/00"
+    ],
+    "citations_count": 5,
+    "trl": 8,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Atte Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN448765",
+    "application_number": "IN2019390850",
+    "title": "Integrated wet gravity and electrostatic separation circuit for high-grade Chavara ilmenite concentrates",
+    "abstract": "A targeted technological process and apparatus for integrated wet gravity and electrostatic separation circuit for high-grade chavara ilmenite concentrates addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2019,
+    "filing_date": "2019-03-16",
+    "publication_date": "2020-02-28",
+    "grant_date": "2021-09-21",
+    "status": "Granted",
+    "assignee": "Kerala Minerals and Metals Ltd (KMML)",
+    "assignee_type": "PSU / Public Sector Enterprise",
+    "assignee_state": "Kerala",
+    "critical_mineral": "Titanium (Ti)",
+    "value_chain_stage": "2. Beneficiation & Extraction",
+    "ipc_classes": [
+      "B03B 7/00",
+      "C22B 3/00"
+    ],
+    "citations_count": 12,
+    "trl": 8,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Kera Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2022492084",
+    "application_number": "IN2022492084",
+    "title": "Vacuum induction melting of niobium-base superalloys for hypersonic rocket engine nozzles",
+    "abstract": "A targeted technological process and apparatus for vacuum induction melting of niobium-base superalloys for hypersonic rocket engine nozzles addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-03-17",
+    "publication_date": "2023-01-16",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "Defence Metallurgical Research Laboratory (DMRL - DRDO)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Telangana",
+    "critical_mineral": "Niobium & Tantalum (Nb/Ta)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "C22C 27/02",
+      "C01G 1/00"
+    ],
+    "citations_count": 9,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Defe Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN459784",
+    "application_number": "IN2021193318",
+    "title": "Lithogeochemical exploration criteria for vanadium-bearing titaniferous magnetite deposits in Dharwar craton",
+    "abstract": "A targeted technological process and apparatus for lithogeochemical exploration criteria for vanadium-bearing titaniferous magnetite deposits in dharwar craton addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2021,
+    "filing_date": "2021-08-19",
+    "publication_date": "2022-09-24",
+    "grant_date": "2023-04-27",
+    "status": "Granted",
+    "assignee": "Geological Survey of India (GSI)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "West Bengal",
+    "critical_mineral": "Vanadium (V)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 9/00",
+      "C01G 1/00"
+    ],
+    "citations_count": 15,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Geol Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2022394552",
+    "application_number": "IN2022394552",
+    "title": "Determination and geochemical speciation of critical trace elements (Ga, Ge, Li) in Indian Gondwana coal seams",
+    "abstract": "A targeted technological process and apparatus for determination and geochemical speciation of critical trace elements (ga, ge, li) in indian gondwana coal seams addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-01-18",
+    "publication_date": "2023-06-23",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "CSIR-Central Institute of Mining and Fuel Research (CSIR-CIMFR)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Jharkhand",
+    "critical_mineral": "Gallium & Germanium (Ga/Ge)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01N 33/22",
+      "C01G 1/00"
+    ],
+    "citations_count": 9,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  },
+  {
+    "patent_id": "IN439346",
+    "application_number": "IN2020295786",
+    "title": "High-activity platinum-ruthenium nanoparticles anchored on nitrogen-doped carbon for fuel cell anodes",
+    "abstract": "A targeted technological process and apparatus for high-activity platinum-ruthenium nanoparticles anchored on nitrogen-doped carbon for fuel cell anodes addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2020,
+    "filing_date": "2020-07-16",
+    "publication_date": "2021-09-14",
+    "grant_date": "2022-06-16",
+    "status": "Granted",
+    "assignee": "CSIR-National Chemical Laboratory (CSIR-NCL)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Maharashtra",
+    "critical_mineral": "Platinum Group Metals (PGM)",
+    "value_chain_stage": "4. Component & Precursor Manufacturing",
+    "ipc_classes": [
+      "B01J 23/42",
+      "C01G 1/00"
+    ],
+    "citations_count": 20,
+    "trl": 7,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. CSIR Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Protected / Operational"
+  },
+  {
+    "patent_id": "IN2022297020",
+    "application_number": "IN2022297020",
+    "title": "Deep-towed acoustic sub-bottom profiling for cobalt-rich ferromanganese crust delineation on Afanasy Nikitin seamount",
+    "abstract": "A targeted technological process and apparatus for deep-towed acoustic sub-bottom profiling for cobalt-rich ferromanganese crust delineation on afanasy nikitin seamount addressing domestic raw material valorization, energy consumption reduction, and high-efficiency mineral processing under Indian regulatory standards.",
+    "filing_year": 2022,
+    "filing_date": "2022-04-28",
+    "publication_date": "2023-07-27",
+    "grant_date": null,
+    "status": "Published / Under Examination",
+    "assignee": "National Institute of Oceanography (CSIR-NIO)",
+    "assignee_type": "CSIR / National R&D Labs",
+    "assignee_state": "Goa",
+    "critical_mineral": "Cobalt (Co)",
+    "value_chain_stage": "1. Exploration & Characterization",
+    "ipc_classes": [
+      "G01V 1/38",
+      "C01G 1/00"
+    ],
+    "citations_count": 16,
+    "trl": 6,
+    "inventors": [
+      "Chief Scientist Team",
+      "Dr. Nati Lead"
+    ],
+    "foreign_priority": false,
+    "commercial_status": "Pending Examination"
+  }
+]
